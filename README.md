@@ -1,22 +1,11 @@
-# nuxtjs-demo
+# Nuxtjs 在 21云盒子 的样例 [![www.21yunbox.com](https://img.shields.io/badge/Powered%20By-21YunBox-ff69b4.svg)](https://www.21yunbox.com/)
 
-> 21云盒子 ruxt.js Hello World 样例
 
-## Build Setup
 
-```bash
-# install dependencies
-$ npm install
+这是 [21云盒子](http://www.21yunbox.com/) 上创建的 [Nuxtjs](https://zh.nuxtjs.org/) 样例。
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+这个应用已经部署在 [https://nuxtjs.21yunbox.com](https://nuxtjs.21yunbox.com)。
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+## 部署
 
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+详情看 [https://21yunbox.com/docs/#/deploy-nuxtjs](https://21yunbox.com/docs/#/deploy-nuxtjs)

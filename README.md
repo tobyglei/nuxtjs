@@ -4,7 +4,7 @@
 
 这是 [21云盒子](http://www.21yunbox.com/) 上创建的 [Nuxtjs](https://zh.nuxtjs.org/) 样例。
 
-这个应用已经部署在 [https://nuxtjs.21yunbox.com](https://nuxtjs.21yunbox.com)。
+这个应用已经部署在 [https://nuxtjs.21yunbox.com](https://nuxt.21yunbox.com)。
 
 ## 部署
 

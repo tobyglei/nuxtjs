@@ -8,4 +8,4 @@
 
 ## 部署
 
-详情看 [https://21yunbox.com/docs/#/deploy-nuxtjs](https://21yunbox.com/docs/#/deploy-nuxtjs)
+详情看 [https://www.21yunbox.com/docs/v2/static.html#nuxt-js](https://www.21yunbox.com/docs/v2/static.html#nuxt-js)

@@ -1,7 +1,7 @@
 {
   "name": "nuxtjs-demo",
   "version": "1.0.0",
-  "description": "21云盒子 ruxt.js Hello World 样例",
+  "description": "21云盒子 nuxt.js Hello World 样例",
   "author": "Juukee",
   "private": true,
   "scripts": {

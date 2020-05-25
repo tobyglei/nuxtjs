@@ -6,7 +6,7 @@
         nuxtjs-demo
       </h1>
       <h2 class="subtitle">
-        21云盒子 ruxt.js Hello World 样例
+        21云盒子 nuxt.js Hello World 样例
       </h2>
       <div class="links">
         <a
